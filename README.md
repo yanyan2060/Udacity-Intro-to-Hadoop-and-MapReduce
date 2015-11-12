@@ -1,6 +1,6 @@
 # Udacity-Intro-to-Hadoop-and-MapReduce
-Lesson 3 Problem Part 1 and Part 2
-Final Project
+<h1>Lesson 3 Problem Part 1 and Part 2</h1>
+<h2>Final Project<h2>
 Final Project: P1:find for each student what is the hour during which the student has posted the most posts
                p2:Write a mapreduce program that would process the forum_node data and output the length of the post and the average answer (just answer, not comment) length for each post.
                p3:Write a mapreduce program that would output Top 10 tags, ordered by the number of questions they appear in.
